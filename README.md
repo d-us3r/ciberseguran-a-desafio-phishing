@@ -1,2 +1,2 @@
-# ciberseguran-a-desafio-phishing
+# cibersegurança-desafio-phishing
 Desafio realizado no curso da DIO
